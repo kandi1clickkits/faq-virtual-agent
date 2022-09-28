@@ -14,7 +14,7 @@ SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.e
 SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/faq-virtual-agent/releases/download/v1.0.0/faq-virtual-agent-main.zip
 SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandi1clickkits/faq-virtual-agent/main/requirements.txt
 SET REPO_NAME=faq-virtual-agent.zip
-SET EXTRACTED_REPO_DIR=faq-virtual-agent-main
+SET EXTRACTED_REPO_DIR=faq-virtual-agent
 SET NOTEBOOK_NAME=Virtual Agent for FAQ.ipynb
 REM SET NOTEBOOK_NAME2=Student Counsellor App.ipynb
 where /q python
